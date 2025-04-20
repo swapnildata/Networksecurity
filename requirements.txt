@@ -1,8 +1,8 @@
 pandas
 python-dotenv
-pymango
+pymongo
 numpy
 certifi
-
+pymongo[srv]==4.12
 
 ##-e .
